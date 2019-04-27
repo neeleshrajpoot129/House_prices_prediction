@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 from google.colab import files
 uploaded = files.upload()
-#just simply upload all train.csv,test.csv here
+#just simply upload all train.csv,test.csv,submission.csv
  
 
 import io
